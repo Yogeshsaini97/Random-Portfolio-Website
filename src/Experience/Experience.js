@@ -33,9 +33,9 @@ const Experience = () => {
     
       
    className='experience box'>
-    <div><div><span>8+</span></div><span>years</span><span>Experience</span></div>
-    <div><div><span>20+</span></div><span>completed </span><span>Projects</span></div>
-    <div><div><span>5+</span></div><span>companies</span><span>Work</span></div>
+    <div><div><span>1.5+</span></div><span>years</span><span>Experience</span></div>
+    <div><div><span>5+</span></div><span>completed </span><span>Projects</span></div>
+    <div><div><span>3+</span></div><span>companies</span><span>Work</span></div>
       
     </motion.div>
   )

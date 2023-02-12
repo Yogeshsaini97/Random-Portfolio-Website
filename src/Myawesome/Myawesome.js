@@ -34,13 +34,12 @@ const Myawesome = () => {
             paddingRight: "52%"
           }}
         >
-          Services
+          Skills
         </div>
         <div className="lorem" style={{ fontSize: "18px",    marginLeft: "9%",
     marginTop: "5%"}}>
         <p>
-          It is a long established fact that a reader will be distracted by the
-          readable content of a page when looking at its layout..
+         React js(Top skill), Redux , Express js, Mongodb, Node js,HTML5, CSS, Advance Javascript,Bootstrap, c++
         </p>
         <button style={{position:"relative",right:"40%"}} className='mybtn'>Hire Me </button>
       </div>

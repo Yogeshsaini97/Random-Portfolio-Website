@@ -17,7 +17,7 @@ function Navbar() {
     left: "40%",
     top: "-724%",borderRadius:"100%"}}></div>
     <span style={{position: "absolute",
-    left: "198px"}}>Andrew</span>
+    left: "198px"}}>Portfolio</span>
     </div>
     <div>
 <span >
